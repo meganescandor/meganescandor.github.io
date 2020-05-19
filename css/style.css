@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700&display=swap");
+body {
+  background: #003263;
+}
+
+main p {
+  color: white;
+  padding: 1em;
+}
+main video {
+  margin: 1em auto;
+}
+
+.images .container-fluid .row {
+  margin: auto;
+}
+.images .container-fluid .row .card {
+  margin: 1em 0;
+}
+
+.back-top {
+  margin: 1em auto;
+}
+.back-top a {
+  float: right;
+  color: black;
+}
+
+.jumbotron {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.card {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  /* Footer height */
+}
+
+.col-md-4 .card-body p {
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
